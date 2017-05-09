@@ -1,1 +1,1 @@
-float: left. !important;
+reset staging
