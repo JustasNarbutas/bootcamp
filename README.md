@@ -1,1 +1,1 @@
-float: left. !important;
+Change by Jevgenijus
