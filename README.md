@@ -1,1 +1,1 @@
-float: left
+float: left. !important;
